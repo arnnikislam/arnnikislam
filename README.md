@@ -9,13 +9,13 @@
 
 <p align="center">
   <a href="https://youtube.com/@learnwitharnnik"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/></a>
-  <a href="https://arnnikislam.github.io"><img src="https://img.shields.io/badge/Blog-Read%20My%20Posts-orange?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog Badge"/></a>
+  <a href="https://arnnik.vercel.app/"><img src="https://img.shields.io/badge/Blog-Read%20My%20Posts-orange?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog Badge"/></a>
   <a href="https://github.com/arnnikislam"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/></a>
   <a href="https://facebook.com/arnnik.lwa"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/></a>
   <a href="https://twitter.com/arnnikislam"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
   <a href="https://linkedin.com/in/arnnikislam"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="https://www.instagram.com"><img src="https://img.shields.io/badge/Instagram-FF0000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
-  <a href="https://www.reddit.com"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/></a>
+  <a href="https://www.instagram.com/arnnikislam"><img src="https://img.shields.io/badge/Instagram-FF0000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
+  <a href="https://www.reddit.com/u/arnnikislam"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/></a>
 </p>
 <p align="center">
   <img src="https://img.shields.io/github/watchers/arnnikislam/arnnikislam?style=for-the-badge&logo=github&color=brightgreen&label=Watching" alt="Watching Badge"/>
@@ -123,13 +123,13 @@ Credits:
 ### 🙏 Acknowledgments
 Special thanks to the following amazing creators and resources that inspired and supported this project.
 
-1. Learn with Summit - https://github.com/learnwithsumit/learnwithsumit
-2. Hasin Hyder - https://github.com/hasinhayder/hasinhayder
-3. Anisul Islam - https://github.com/anisul-Islam/anisul-Islam
-4. Rabbil Hasan - https://github.com/anisul-Islam/anisul-Islam
-5. Magdeline - https://github.com/xsol05/xsol05/
-6. GitHub Stats - https://github.com/anuraghazra/github-readme-stats
-7. YouTube Card - https://github.com/DenverCoder1/github-readme-youtube-cards
-8. Markdown Badges - https://github.com/Ileriayo/markdown-badges?tab=readme-ov-file
+- Learn with Summit - https://github.com/learnwithsumit/learnwithsumit
+- Hasin Hyder - https://github.com/hasinhayder/hasinhayder
+- Anisul Islam - https://github.com/anisul-Islam/anisul-Islam
+- Rabbil Hasan - https://github.com/anisul-Islam/anisul-Islam
+- Magdeline - https://github.com/xsol05/xsol05/
+- GitHub Stats - https://github.com/anuraghazra/github-readme-stats
+- YouTube Card - https://github.com/DenverCoder1/github-readme-youtube-cards
+- Markdown Badges - https://github.com/Ileriayo/markdown-badges?tab=readme-ov-file
 -->
 ```
