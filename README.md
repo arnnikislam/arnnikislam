@@ -17,6 +17,8 @@
   <a href="https://www.reddit.com"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
 </p>
 <p align="center">
+    <img src="https://img.shields.io/github/watchers/arnnikislam/arnnikislam?style=for-the-badge&logo=github&color=brightgreen&label=Watching" alt="Watching Badge"/>
+  
   <img src="https://komarev.com/ghpvc/?username=arnnikislam&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </p>
 
