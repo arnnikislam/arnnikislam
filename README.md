@@ -119,14 +119,14 @@ Hey! I’m **Payel**, a student from Bangladesh <img src="assets/bangladesh.png"
 
 ```markdown
 <!-- 
-Credits: 
+Crdits: 
 ### 🙏 Acknowledgments
 Special thanks to the following amazing creators and resources that inspired and supported this project.
 
 - Learn with Summit - https://github.com/learnwithsumit/learnwithsumit
 - Hasin Hyder - https://github.com/hasinhayder/hasinhayder
 - Anisul Islam - https://github.com/anisul-Islam/anisul-Islam
-- Rabbil Hasan - https://github.com/anisul-Islam/anisul-Islam
+- Rabbil Hasan - https://github.com/rupomsoft/rupomsoft
 - Magdeline - https://github.com/xsol05/xsol05/
 - GitHub Stats - https://github.com/anuraghazra/github-readme-stats
 - YouTube Card - https://github.com/DenverCoder1/github-readme-youtube-cards
